@@ -38,8 +38,6 @@ To set-up the Web-app on your local machine, follow these steps -
 
 - Run <code>npm start</code> .
 
-![how to use](https://github.com/sandyboon/employee-directory-react/tree/master/public/assets/empdir.gif)
-
 ## Credits
 
 sandyboon(https://github.com/sandyboon)
